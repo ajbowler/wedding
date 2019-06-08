@@ -24,12 +24,10 @@ const App = () => {
         <div className="columns is-centered">
           <div className="column is-narrow headline">
             <div className="names">
-              <p>Andrew Bowler</p>
-              <p>&</p>
-              <p>Katie Brems</p>
+              <p>Andrew Bowler & Katie Brems</p>
             </div>
             <p className="wedding-date">
-              <i>June 20, 2020</i>
+              <i>June 20, 2020 &mdash; Ottumwa, Iowa</i>
             </p>
           </div>
         </div>
