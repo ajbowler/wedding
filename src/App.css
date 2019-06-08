@@ -6,6 +6,35 @@
   max-width: 100%;
   opacity: 0;
 }
+
+* {
+  font-family: Bembo;
+}
+
 .b-lazy.b-loaded {
   opacity: 1;
+}
+
+.headline {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.names {
+  margin-bottom: 1rem;
+}
+
+.nav-links a {
+  color: black;
+  font-size: 1.75rem;
+  margin: auto 48px;
+}
+
+.nav-links a:hover {
+  color: #3a5c6e;
+  text-decoration: underline;
+}
+
+.wedding-date {
+  font-size: 1.5rem;
 }
