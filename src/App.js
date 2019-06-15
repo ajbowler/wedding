@@ -17,7 +17,7 @@ const App = () => {
           <div className="columns is-centered">
             <div className="column is-narrow headline">
               <div className="names">
-                <p>Andrew Bowler & Katie Brems</p>
+                <p>Katie Brems & Andrew Bowler</p>
               </div>
               <p className="wedding-date">
                 <i>June 20, 2020 &mdash; Ottumwa, Iowa</i>
