@@ -14,18 +14,3 @@
 .b-lazy.b-loaded {
   opacity: 1;
 }
-
-.headline {
-  text-align: center;
-  font-size: 3rem;
-  color: black;
-}
-
-.names {
-  margin-bottom: 1rem;
-}
-
-.wedding-date {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-}
