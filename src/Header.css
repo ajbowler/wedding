@@ -1,0 +1,23 @@
+.nav-links-container {
+  background-color: #eae6d8;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.nav-links {
+  padding: 12px;
+  margin: 0 auto;
+}
+
+.nav-links a {
+  color: #b19d83;
+  font-size: 1.75rem;
+  margin: 0 48px;
+}
+
+.nav-links a:hover {
+  color: #425e5d;
+  text-decoration: underline;
+  transition: color ease-in 200ms;
+}
