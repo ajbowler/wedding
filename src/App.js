@@ -15,7 +15,7 @@ const App = () => {
   }, []);
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Route exact path="/" component={Homepage} />
       <Route exact path={RSVP} component={Rsvp} />
       <Route exact path={VENUE} component={Venue} />
