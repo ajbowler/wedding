@@ -21,22 +21,6 @@
   color: black;
 }
 
-.homepage {
-  margin-top: 80px;
-}
-
-.homepage::after {
-  content: "";
-  background: url(./couple.JPG) no-repeat center center scroll;
-  opacity: 0.5;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  z-index: -1;
-}
-
 .names {
   margin-bottom: 1rem;
 }
