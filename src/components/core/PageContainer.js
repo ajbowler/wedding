@@ -1,11 +1,12 @@
 import React from "react";
 import Header from "../header/Header";
+import "./PageContainer.css";
 
 const PageContainer = props => (
-  <React.Fragment>
+  <div className={props.hasBackground ? "container-background" : ""}>
     <Header />
     {props.children}
-  </React.Fragment>
+  </div>
 );
 
 export default PageContainer;

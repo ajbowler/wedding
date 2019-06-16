@@ -1,0 +1,4 @@
+.container-background {
+  background-color: #eae6d8;
+  height: calc(100vh - 40px);
+}
