@@ -48,9 +48,8 @@ const Venue = () => {
             <div className="column is-half venue-details">
               <p>
                 <i>
-                  The ceremony will begin at 6:00 pm Following the ceremony will
-                  be a cocktail hour followed by a plated dinner at 8:00 and
-                  drinks and dancing throughout the night.
+                  The ceremony will begin at 6:00 pm. Following the ceremony
+                  will be a reception with dinner and dancing.
                 </i>
               </p>
             </div>
