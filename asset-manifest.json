@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.4953fbb6.chunk.css",
-    "main.js": "/wedding/static/js/main.f5633c8c.chunk.js",
-    "main.js.map": "/wedding/static/js/main.f5633c8c.chunk.js.map",
+    "main.css": "/wedding/static/css/main.2582e8a9.chunk.css",
+    "main.js": "/wedding/static/js/main.fb264c24.chunk.js",
+    "main.js.map": "/wedding/static/js/main.fb264c24.chunk.js.map",
     "runtime~main.js": "/wedding/static/js/runtime~main.8918a5c1.js",
     "runtime~main.js.map": "/wedding/static/js/runtime~main.8918a5c1.js.map",
-    "static/js/2.1f9b48b5.chunk.js": "/wedding/static/js/2.1f9b48b5.chunk.js",
-    "static/js/2.1f9b48b5.chunk.js.map": "/wedding/static/js/2.1f9b48b5.chunk.js.map",
+    "static/js/2.c789b874.chunk.js": "/wedding/static/js/2.c789b874.chunk.js",
+    "static/js/2.c789b874.chunk.js.map": "/wedding/static/js/2.c789b874.chunk.js.map",
     "index.html": "/wedding/index.html",
-    "precache-manifest.4943c9f0226290ba00d870d6dd75b5fc.js": "/wedding/precache-manifest.4943c9f0226290ba00d870d6dd75b5fc.js",
+    "precache-manifest.c6dc44643d6bb142f2db767de90776f5.js": "/wedding/precache-manifest.c6dc44643d6bb142f2db767de90776f5.js",
     "service-worker.js": "/wedding/service-worker.js",
-    "static/css/main.4953fbb6.chunk.css.map": "/wedding/static/css/main.4953fbb6.chunk.css.map",
+    "static/css/main.2582e8a9.chunk.css.map": "/wedding/static/css/main.2582e8a9.chunk.css.map",
     "static/media/Homepage.css": "/wedding/static/media/couple.b941a627.JPG"
   }
 }
