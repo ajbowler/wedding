@@ -14,7 +14,7 @@ const RegistryLink = ({ img, href }) => (
       />
     </div>
     <div className="registry-link">
-      <a href={href} target="_blank">
+      <a href={href} target="_blank" rel="noopener noreferrer">
         <i>View Registry</i>
       </a>
     </div>
