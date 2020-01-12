@@ -2,7 +2,7 @@
   "name": "wedding",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ajbowler.github.io/wedding",
+  "homepage": "https://www.bowlerbremswedding.com",
   "dependencies": {
     "blazy": "^1.8.2",
     "formik": "^1.5.7",
