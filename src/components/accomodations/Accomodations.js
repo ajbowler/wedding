@@ -56,7 +56,7 @@ const Accomodations = () => {
               }
               bookingLink="https://www.ihg.com/holidayinnexpress/hotels/us/en/ottumwa/omtqu/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99585603&icdv=99585603&qSlH=OMTQU&qAAR=IL4D4&qRtP=IL4D4&setPMCookies=true&qSHBrC=EX&qDest=941%20North%20Quincy%20Avenue,%20Ottumwa,%20IA,%20US&srb_u=1"
               mapLink="https://www.google.com/maps/place/Holiday+Inn+Express+%26+Suites+Ottumwa/@41.0136876,-92.4419238,17z/data=!3m1!4b1!4m8!3m7!1s0x87e61d5190fb4c57:0x7e70aec2264adbcb!5m2!4m1!1i2!8m2!3d41.0136876!4d-92.4397351"
-              phoneInstructions="Or call (641) 814-4500"
+              phoneInstructions="Or call (641) 814-4500 and request the wedding rate"
             />
             <HotelLink
               img="hampton_inn.png"
@@ -69,7 +69,7 @@ const Accomodations = () => {
               }
               bookingLink="https://secure3.hilton.com/en_US/hp/reservation/book.htm?execution=e1s1"
               mapLink="https://www.google.com/maps/place/Hampton+Inn+Ottumwa/@41.0145007,-92.4419207,17z/data=!3m1!4b1!4m8!3m7!1s0x87e61ddfa3fb6779:0xe84fb7e39ced3629!5m2!4m1!1i2!8m2!3d41.0145007!4d-92.439732"
-              phoneInstructions="Or call (641) 814-8888 and use code 0560061264 when booking"
+              phoneInstructions={`Use code 0560061264 under "Corporate Account" when booking, or call (641) 814-8888 and request the wedding rate`}
             />
           </div>
         </div>
