@@ -16,3 +16,10 @@
   color: #475e5d;
   text-decoration: underline;
 }
+
+@media screen and (max-width: 475px) {
+  .registry {
+    margin-top: 0;
+    padding-top: 0;
+  }
+}

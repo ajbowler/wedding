@@ -21,3 +21,13 @@
   text-decoration: underline;
   transition: color ease-in 200ms;
 }
+
+@media screen and (max-width: 475px) {
+  .nav-links-container {
+    position: unset;
+  }
+
+  .nav-links a {
+    margin: 0;
+  }
+}

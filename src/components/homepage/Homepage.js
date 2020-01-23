@@ -8,7 +8,7 @@ const Homepage = () => (
     <div className="section homepage" style={{ backgroundImage: couple }}>
       <div className="container">
         <div className="columns is-centered">
-          <div className="column is-narrow headline">
+          <div className="column is-narrow headline name-headline">
             <div className="names">
               <p>Katie Brems & Andrew Bowler</p>
             </div>

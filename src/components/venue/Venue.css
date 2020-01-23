@@ -18,7 +18,12 @@
 }
 
 @media screen and (max-width: 475px) {
+  .venue {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
   .venue-heading {
-    margin-top: 40px;
+    font-size: 2rem;
   }
 }

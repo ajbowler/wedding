@@ -30,7 +30,11 @@
 }
 
 @media screen and (max-width: 475px) {
-  .headline {
+  .name-headline {
     margin-top: 80px;
+  }
+
+  .homepage::after {
+    background-size: cover;
   }
 }
