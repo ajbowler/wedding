@@ -16,3 +16,9 @@
   color: #475e5d;
   text-decoration: underline;
 }
+
+@media screen and (max-width: 475px) {
+  .venue-heading {
+    margin-top: 40px;
+  }
+}

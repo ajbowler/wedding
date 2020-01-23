@@ -28,3 +28,9 @@
   font-size: 2rem;
   margin-bottom: 1rem;
 }
+
+@media screen and (max-width: 475px) {
+  .headline {
+    margin-top: 80px;
+  }
+}
