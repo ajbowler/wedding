@@ -54,7 +54,7 @@ const Venue = () => {
               </p>
               <p>
                 <i>
-                  Please contact the bride and groom if you have any dietary restrictions.
+                  Please contact the bride or groom if you have any dietary restrictions.
                 </i>
               </p>
             </div>
