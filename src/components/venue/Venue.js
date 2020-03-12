@@ -45,11 +45,16 @@ const Venue = () => {
             </div>
           </div>
           <div className="columns is-centered">
-            <div className="column is-half venue-details">
+            <div className="column is-half venue-details schedule">
               <p>
                 <i>
                   The ceremony will begin at 6:00 pm. Following the ceremony
                   will be a reception with dinner and dancing.
+                </i>
+              </p>
+              <p>
+                <i>
+                  Please contact the bride and groom if you have any dietary restrictions.
                 </i>
               </p>
             </div>

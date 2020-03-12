@@ -11,6 +11,10 @@
   text-align: center;
 }
 
+.schedule p {
+  margin-bottom: 18px;
+}
+
 .venue-map p {
   margin-top: 10px;
   color: #475e5d;
