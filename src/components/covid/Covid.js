@@ -18,7 +18,7 @@ const Covid19 = () => {
             </div>
           </div>
           <div className="columns is-centered">
-            <div className="column is-narrow covid-details">
+            <div className="column  covid-details">
               <p>
                 We will be providing dated updates on this page regarding any impact the coronavirus has on our wedding.
               </p>
@@ -28,7 +28,7 @@ const Covid19 = () => {
             </div>
           </div>
           <div className="columns is-centered">
-            <div className="column is-narrow covid-details">
+            <div className="column covid-details">
               <p>
                 If you would like to reach out to either of us directly for any questions or concerns you can reach us at 641-814-2466 (Katie) or 641-814-6441 (Andrew).
               </p>
