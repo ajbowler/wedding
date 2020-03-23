@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { ACCOMODATIONS, REGISTRY, VENUE } from "../../routes";
+import { ACCOMODATIONS, REGISTRY, VENUE, COVID } from "../../routes";
 import "./Header.css";
 
 const Header = () => (
@@ -14,6 +14,9 @@ const Header = () => (
       </div>
       <div className="column is-narrow">
         <Link to={REGISTRY}>REGISTRY</Link>
+      </div>
+      <div className="column is-narrow">
+        <Link to={COVID}>COVID-19</Link>
       </div>
     </div>
   </header>
