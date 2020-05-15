@@ -13,7 +13,10 @@ const Homepage = () => (
               <p>Katie Brems & Andrew Bowler</p>
             </div>
             <p className="wedding-date">
-              <i>June 20, 2020 &mdash; Ottumwa, Iowa</i>
+              <span style={{color: 'crimson'}}><i>NEW DATE </i></span><i>June 19, 2021</i>
+            </p>
+            <p className="wedding-date">
+              Ottumwa, IA
             </p>
           </div>
         </div>

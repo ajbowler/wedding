@@ -32,8 +32,14 @@ const Covid19 = () => {
               <p>
                 If you would like to reach out to either of us directly for any questions or concerns you can reach us at 641-814-2466 (Katie) or 641-814-6441 (Andrew).
               </p>
+            </div>
+          </div>
+          <div className="columns is-centered">
+            <div className="column covid-details">
               <p>
-                We hope to be able to have a day surrounded by as many of our friends and family as possible in a safe and healthy environment whether that date be June 20th or a later date.
+                <i>
+                  <b>5/15/2020:</b> We were looking forward to celebrating with everyone in June 2020 but have made the decision to postpone our wedding to June 19, 2021 to ensure the health and safety of our guests. We hope you can come celebrate with us next year!
+                </i>
               </p>
             </div>
           </div>
