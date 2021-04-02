@@ -4,7 +4,7 @@
 
 .homepage::after {
   content: "";
-  background: url(./couple.JPG) no-repeat center center scroll;
+  background: url(./couple_2.JPG) no-repeat top center scroll;
   opacity: 0.5;
   top: 0;
   left: 0;

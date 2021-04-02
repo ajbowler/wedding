@@ -38,6 +38,15 @@ const Covid19 = () => {
             <div className="column covid-details">
               <p>
                 <i>
+                  <b>4/2/2021:</b> For the continued safety of all of our friends and family, we are postponing our wedding reception to June 25th, 2022. Although our celebration is being postponed, the two of us were married in a private ceremony on June 20th, 2020. We can't wait to celebrate our second wedding anniversary with you!
+                </i>
+              </p>
+            </div>
+          </div>
+          <div className="columns is-centered">
+            <div className="column covid-details">
+              <p>
+                <i>
                   <b>5/15/2020:</b> We were looking forward to celebrating with everyone in June 2020 but have made the decision to postpone our wedding to June 19, 2021 to ensure the health and safety of our guests. We hope you can come celebrate with us next year!
                 </i>
               </p>
